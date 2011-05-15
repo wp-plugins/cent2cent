@@ -19,7 +19,7 @@ The system is easy to incorporate into your website, taking just 15 minutes to i
 
 Cent2Cent works well for individuals and small businesses, saving them money by aggregating all payments at the end of the month. 
 
-But Cent2Cent isn’t only for individuals and small websites; corporations including NBC and Israeli media group Mako have used Cent2Cent to stream content on their sites.
+But Cent2Cent isn't only for individuals and small websites; corporations including NBC and Israeli media group Mako have used Cent2Cent to stream content on their sites.
 
 The Cent2Cent Platform provides a WordPress Plugin for easy install.
 
