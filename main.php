@@ -2,8 +2,8 @@
 /*
 Plugin Name: Cent2Cent.net
 Plugin URI: http://www.cent2cent.net
-Description: Your content is worth money.
-Version: 1.0
+Description: Content Into Profit. Easy.
+Version: 0.9
 Author: Cent2Cent.net 
 Author URI: http://www.cent2cent.net
 License: FREE
