@@ -7,7 +7,7 @@ class Cent2CentAPI
 	public static $Secret;
 	public static $CheckURLPattern = "";
 	public static $CheckURLOnly = true;
-	public static $BaseURL = "http://platform.sandbox.cent2cent.net/";
+	public static $BaseURL = "http://platform.cent2cent.net/";
 	
 	public static function CrossDomainCheck()
 	{

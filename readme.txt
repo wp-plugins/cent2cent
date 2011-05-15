@@ -3,7 +3,7 @@ Contributors: Raanan Raz
 Tags: cent2cent, content monetization, micropayment, protect, monetize, money, earn money, social payment
 Requires at least: 2.9.2
 Tested up to: 3.1
-Stable tag: 0.9
+Stable tag: 0.9.1
 License: GPLv2 or later
 
 Cent2Cent for WordPress helps you to make money with your digital content. It allows you to easily 
@@ -40,6 +40,9 @@ Cent2Cent - Content Into Profit. Easy.
 FAQ on http://www.cent2cent.net/Website/Support/ 
 
 == Changelog ==
+
+= 0.9.1 =
+* Sandbox redirection fixed.
 
 = 0.9 =
 * Beta Release

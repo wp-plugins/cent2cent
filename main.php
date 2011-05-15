@@ -3,7 +3,7 @@
 Plugin Name: Cent2Cent.net
 Plugin URI: http://www.cent2cent.net
 Description: Content Into Profit. Easy.
-Version: 0.9
+Version: 0.9.1
 Author: Cent2Cent.net 
 Author URI: http://www.cent2cent.net
 License: FREE
