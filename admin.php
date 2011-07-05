@@ -29,8 +29,18 @@ function filter_cent2cent_header() {
 		Cent2Cent.WebSiteID = <?php echo Cent2CentAPI::$WebsiteID?>;
         Cent2Cent.ShowContent = function (id, token) {
 			
-			var strURL = "?" + this.C2C_PARAM_REQUESTID + "=" + id + 
-						 "&" + this.C2C_PARAM_APPROVAL + "=" + token;
+			var strURL = document.location.href;
+			if(strURL.indexOf("?") == -1)
+			{
+				strURL += "?";
+			} 
+			else
+			{
+				strURL += "&";
+			}        
+			
+			strURL += this.C2C_PARAM_REQUESTID + "=" + id + 
+					  "&" + this.C2C_PARAM_APPROVAL + "=" + token;
 			
 			jQuery.get(strURL, function(data) {
 
