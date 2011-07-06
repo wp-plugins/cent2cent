@@ -30,9 +30,8 @@ Cent2Cent - Content Into Profit. Easy.
 
 == Installation ==
 
-1. Upload Cent2Vent For WordPress to your wp-content/plugins directory.
-2. Activate it in "Plugins" menu in WordPress.
-3. Set your credentials at the Plugins menus -> Cent2Cent
+Installation guide can be found at: 
+http://www.cent2cent.net/Website/Support/Platforms/WordPress.aspx
 
 == Frequently Asked Questions ==
 
