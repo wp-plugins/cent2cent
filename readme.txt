@@ -26,7 +26,7 @@ The Cent2Cent Platform provides a WordPress Plugin for easy install.
 Start making money from what you love.
 
 Cent2Cent - Content Into Profit. Easy.
-
+http://www.cent2cent.net/
 
 == Installation ==
 
