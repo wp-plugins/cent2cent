@@ -1,5 +1,5 @@
 === Cent2Cent Content Monetization ===
-Contributors: Raanan Raz
+Contributors: Cent2Cent Dev Team
 Tags: cent2cent, content monetization, micropayment, protect, monetize, money, earn money, social payment
 Requires at least: 2.9.2
 Tested up to: 3.1
